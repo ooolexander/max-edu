@@ -2,9 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83578d6f-9379-422a-896a-1169be69bd5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/london_big_ben_england_city_architecture.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/app (deleted b17ec003b29b8730be1c8c87e2343350).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/bg-home (deleted d7f8c4535916f30bf8421a201d0346f9).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/biss (deleted a7619eab0aadd2c135518a48b20e7b80).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/bootstrap.min (deleted 064e1644876e1f7f420945e6dd7d9715).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/bootstrap.min (deleted b4024f5c9c71899f6fe3a2ffd111235b).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/favicon (deleted 788831b5bb8a265bf6923a9a492e0fe4).ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/glyphicons-halflings-regular (deleted 18de9565975f857c8b88ae22b09336fa).woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/glyphicons-halflings-regular (deleted 3e883f293cfa76e603c2481c7ed31395).eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/glyphicons-halflings-regular (deleted 6cd03aa4b6d470ec84e09d291503d315).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/glyphicons-halflings-regular (deleted bd1427e80ceb4715ab48b93960812bae).ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/glyphicons-halflings-regular (deleted fa091cc4a8a14944bb63c5b9ea837e90).woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/img-1 (deleted 0250175b77f765ae794d3f0aa0791eb0).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/img-1 (deleted 2f78ea2e7638c5014c947d2b4d497589).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/img-2 (deleted 82300d2746f60031d5c0dce27cd77703).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/img-3 (deleted 7c30ca3b41a6c9324cf6e5085acf9340).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/img-4 (deleted 623fa6f9c64ad6a7db1d4013be87f630).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/index-bgimage-3 (deleted 889aa8b2928b4bdc4ebc5fed80241cd4).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/jquery-2.1.4.min (deleted 92b21da69c00761c4c30c1fdf7d587f3).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/jquery.easing.1.3.min (deleted 3d82f9fdf9937e11232ec5d837b4fbd4).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/jquery.magnific-popup.min (deleted 41b0b5f8b911eaeee7ed160f331e61d6).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/jquery.sticky (deleted 3ecdf173338ef08170b954eae139fb9d).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/macbook (deleted d46878b2d990d0b7306d4e1cb2d8c056).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/magnific-popup (deleted 740a3247701226254c68ff053064f459).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/parallax.min (deleted bd3508a67ac3c86745caa839d39650ec).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/payment (deleted d58bca5aacfdeb621a7a5eb13d22eca8).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/pe-icon-7-stroke (deleted 2b1f9985fe139270fb588e53990948d9).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/pe-icon-social (deleted 844d2b1b7da8b3c93caed1f3e8f71ff5).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/style (deleted 9ed0ef565aab446dfeb3140235230c01).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/user-1 (deleted 65ce90c6c69281c655bc34f5e72fc13b).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/user-2 (deleted e234a28fcb5732c95f2b9c02d33d6338).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/user-3 (deleted e7137d9c0769176c9f54781682c62bf9).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/waves (deleted 717c68b29ff08969029b0d95e2ee3a4e).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/waves.min (deleted b99f7c70fc1529a1d80b221639e7e0f2).js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/Рисунок2 (deleted 3885903c5ac64a0f46d3e28b47a9cfa0).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/Рисунок3 (deleted d3c51af493efd3966c8fd8d779391395).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/Рисунок7 (deleted b0253dfcb2739eed1a389861e42e4ffb).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/Рисунок8 (deleted 93c4fad221e0ecac1b4969a8250da835).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/брайтон (deleted 781ab5c83c6dae9c6f88cd032511594e).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/брайтон1 (deleted 9aa8435eed8fc17c06af399377dc6a52).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.dropbox.cache/2017-10-26/ученики (deleted e6a21facb0b6bbae61ca277c99c6277d).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/macbook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/testimonials/user-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/testimonials/user-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/testimonials/user-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/брайтон1.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-bgimage-3.html" afterPath="$PROJECT_DIR$/index-bgimage-3.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +64,8 @@
       <file leaf-file-name="index-bgimage-3.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-bgimage-3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="96" column="12" lean-forward="true" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+            <state relative-caret-position="-9614">
+              <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -29,7 +74,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="5712">
               <caret line="272" column="107" lean-forward="false" selection-start-line="272" selection-start-column="107" selection-end-line="272" selection-end-column="107" />
               <folding />
             </state>
@@ -52,8 +97,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index-bgimage-3.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index-bgimage-3.html" />
       </list>
     </option>
   </component>
@@ -65,7 +110,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
@@ -84,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -102,6 +147,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,25 +176,37 @@
       <option name="presentableId" value="Default" />
       <updated>1509088935884</updated>
       <workItem from="1509088937243" duration="4157000" />
-      <workItem from="1509103883153" duration="726000" />
+      <workItem from="1509103883153" duration="978000" />
+      <workItem from="1509296803576" duration="718000" />
+      <workItem from="1509963609997" duration="610000" />
+      <workItem from="1510487346130" duration="8000" />
+      <workItem from="1511523173805" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4883000" />
+    <option name="totallyTimeSpent" value="6541000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13135135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1396348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -181,6 +239,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5712">
+          <caret line="272" column="107" lean-forward="false" selection-start-line="272" selection-start-column="107" selection-end-line="272" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-bgimage-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6800">
+          <caret line="272" column="107" lean-forward="false" selection-start-line="272" selection-start-column="107" selection-end-line="272" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-bgimage-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6800">
+          <caret line="272" column="107" lean-forward="false" selection-start-line="272" selection-start-column="107" selection-end-line="272" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-bgimage-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6800">
+          <caret line="272" column="107" lean-forward="false" selection-start-line="272" selection-start-column="107" selection-end-line="272" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-bgimage-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10850">
           <caret line="434" column="82" lean-forward="false" selection-start-line="434" selection-start-column="82" selection-end-line="434" selection-end-column="82" />
           <folding />
@@ -189,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="5712">
           <caret line="272" column="107" lean-forward="false" selection-start-line="272" selection-start-column="107" selection-end-line="272" selection-end-column="107" />
           <folding />
         </state>
@@ -197,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-bgimage-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="96" column="12" lean-forward="true" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+        <state relative-caret-position="-9614">
+          <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
           <folding />
         </state>
       </provider>

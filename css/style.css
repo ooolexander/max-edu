@@ -166,6 +166,7 @@ iframe {
   border: 1px solid #e278a0 !important;
   color: #fff;
   transition: all 0.3s;
+  margin:0 auto;
 }
 .btn-custom:hover,
 .btn-custom:focus,
@@ -514,11 +515,14 @@ iframe {
 }
 .plan-line:before{
   content: "";
-  border: 1px dashed #e0e0e0;
+  /*border: 1px dashed #e0e0e0;*/
   position: absolute;
   width: 67%;
   left:65%;
   top: 50px;
+}
+.phone-green{
+  color: #2b542c;
 }
 .process-left-icon{
   content: "";
